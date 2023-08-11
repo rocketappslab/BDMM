@@ -1,0 +1,2 @@
+ckpt_path = "./SMPLDataset/checkpoints/spin_ckpt.pth"
+smpl_path = "./SMPLDataset/checkpoints/smpl_model.pkl"

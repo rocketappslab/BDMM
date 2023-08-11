@@ -1,3 +1,13 @@
+SMPLDataset/checkpoints/
+dataset/
+eval_results/
+result/
+checkpoints/
+.idea/
+extensions/
+script/
+*.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
